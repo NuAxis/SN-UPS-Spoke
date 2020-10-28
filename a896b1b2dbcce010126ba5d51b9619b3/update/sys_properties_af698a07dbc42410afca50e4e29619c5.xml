@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_nuai_ups_spoke.UPS Api Password</name>
+        <read_roles/>
+        <suffix>UPS Api Password</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>casey.barela@NuAxisCX.com</sys_created_by>
+        <sys_created_on>2020-10-28 21:02:58</sys_created_on>
+        <sys_id>af698a07dbc42410afca50e4e29619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_nuai_ups_spoke.UPS Api Password</sys_name>
+        <sys_package display_value="UPS Spoke" source="x_nuai_ups_spoke">a896b1b2dbcce010126ba5d51b9619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UPS Spoke">a896b1b2dbcce010126ba5d51b9619b3</sys_scope>
+        <sys_update_name>sys_properties_af698a07dbc42410afca50e4e29619c5</sys_update_name>
+        <sys_updated_by>casey.barela@NuAxisCX.com</sys_updated_by>
+        <sys_updated_on>2020-10-28 21:02:58</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=af698a07dbc42410afca50e4e29619c5"/>
+</record_update>
